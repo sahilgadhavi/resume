@@ -1,6 +1,6 @@
 # **Sahil Gadhavi**
 
-# **UX Writing Lead | Aspiring Technical Writer | Docs-as-Code Advocate **sahilgadhavi\@gmail.com | +91 9974199449 [LinkedIn](https://www.linkedin.com/in/sahilgadhavi/) |[ UX Writing portfolio](https://www.figma.com/deck/nYGixVMQBBhoqKdsebFUwi/Sahil-Gadhavi---Portfolio) |[ Behance - Advertising portfolio](https://www.behance.net/sahilgadhavi)
+# UX Writing Lead | Aspiring Technical Writer | Docs-as-Code Advocate **sahilgadhavi\@gmail.com | +91 9974199449 [LinkedIn](https://www.linkedin.com/in/sahilgadhavi/) |[ UX Writing portfolio](https://www.figma.com/deck/nYGixVMQBBhoqKdsebFUwi/Sahil-Gadhavi---Portfolio) |[ Behance - Advertising portfolio](https://www.behance.net/sahilgadhavi)
 
 #
 
