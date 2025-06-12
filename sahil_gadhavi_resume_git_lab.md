@@ -1,6 +1,7 @@
 # **Sahil Gadhavi**
 
-# UX Writing Lead | Aspiring Technical Writer | Docs-as-Code Advocate **sahilgadhavi\@gmail.com | +91 9974199449 [LinkedIn](https://www.linkedin.com/in/sahilgadhavi/) |[ UX Writing portfolio](https://www.figma.com/deck/nYGixVMQBBhoqKdsebFUwi/Sahil-Gadhavi---Portfolio) |[ Behance - Advertising portfolio](https://www.behance.net/sahilgadhavi)
+# UX Writing Lead | Aspiring Technical Writer | Docs-as-Code Advocate 
+sahilgadhavi\@gmail.com | +91 9974199449 [LinkedIn](https://www.linkedin.com/in/sahilgadhavi/) |[ UX Writing portfolio](https://www.figma.com/deck/nYGixVMQBBhoqKdsebFUwi/Sahil-Gadhavi---Portfolio) |[ Behance - Advertising portfolio](https://www.behance.net/sahilgadhavi)
 
 #
 
@@ -21,7 +22,6 @@
 - Introduced AI-assisted workflows and prompt libraries to improve productivity
 - Created internal documentation for ways of working, design systems and tooling adoption
 
-\
 
 
 # Vedantu – Executive Copywriter (EdTech) *Jun 2021 – Aug 2022*
@@ -30,10 +30,7 @@
 - Scripted educational video content contributing to 2x engagement in awareness campaigns
 - Partnered with UX team to align content tone and readability with product goals
 
-\
-\
-\
-\
+
 
 
 # Parantapa Sciences – Senior Writer (NGO + Research) *Aug 2020 – Jun 2021*
@@ -41,7 +38,7 @@
 - Conducted anthropological research to inform culturally sensitive storytelling
 - Created impact content that shaped donor strategy and community engagement
 
-\
+
 
 
 # The Digital Street (now WiseApe) – Senior Copywriter *Jul 2019 – Aug 2020*
@@ -49,7 +46,7 @@
 - Developed campaign messaging and digital content for brands like Savlon, Dolby, ITC
 - Supervised a team of 10 creatives and contributed to 6+ pitch wins
 
-\
+
 
 
 # Writopedia – Senior Writer *Nov 2017 – Jun 2019*
@@ -79,7 +76,7 @@
 
 #
 
-\
+
 
 
 ### 📂 **References**
