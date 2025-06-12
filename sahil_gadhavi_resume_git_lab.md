@@ -81,6 +81,4 @@ English, Hindi, Gujarati, Marwari, Spanish (learning)
 
 ### 📂 **References**
 
-# Available on request (Mr. Antonio Domingo, Ms. Sundhara Sugumaran – HSBC Content Design Leads)
-
-#
+Mr. Antonio Domingo, Ms. Sundhara Sugumaran – HSBC Content Design Leads (Available on request)
