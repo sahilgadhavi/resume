@@ -11,6 +11,7 @@
 
 UX Writing Lead with 7+ years of experience delivering user-focused documentation and content strategy across fintech, edtech, and digital campaigns. Adept in agile ways of working and crafting scalable documentation systems. Strong background in anthropology supports a user-centered approach to inclusive, accessible, and global-ready content.
 
+---
 
 ### 📅 **Experience**
 
@@ -60,7 +61,7 @@ UX Writing Lead with 7+ years of experience delivering user-focused documentatio
 - Delivered over 600 content projects across SEO, Amazon listings, fintech, and travel
 - Managed content lifecycle from research to performance analytics
 
-
+---
 
 ### 📚 **Education & Certifications**
 
@@ -68,7 +69,7 @@ UX Writing Lead with 7+ years of experience delivering user-focused documentatio
 - **MICA** – Advanced Diploma in PR & Advertising (2022)
 - **University of West Georgia** – B.Sc. in Cultural Anthropology, Minor in Film Studies (2016)
 
-
+---
 
 ### 🔧 **Skills**
 
@@ -78,16 +79,13 @@ UX Writing Lead with 7+ years of experience delivering user-focused documentatio
 
 **Methods:** Docs-as-Code, Agile collaboration, ContentOps, Localization, WCAG 2.1 compliance
 
-
+---
 
 ### 🌍 **Languages**
 
 English, Hindi, Gujarati, Marwari, Spanish (learning)
 
-
-
-
-
+---
 
 ### 📂 **References**
 
