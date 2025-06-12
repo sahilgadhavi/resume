@@ -13,7 +13,8 @@ UX Writing Lead with 7+ years of experience delivering user-focused documentatio
 
 ### 📅 **Experience**
 
-#### HSBC – UX Writing Lead (Senior Content Designer) *Aug 2022 – Present*
+##### HSBC – UX Writing Lead 
+###### *Aug 2022 – Present*
 
 - Led content strategy for global banking journeys across 10+ markets (UK, UAE, India, Hong Kong, etc.)
 - Collaborated with designers and engineers to align UX copy with flows
@@ -24,7 +25,8 @@ UX Writing Lead with 7+ years of experience delivering user-focused documentatio
 
 
 
-#### Vedantu – Executive Copywriter (EdTech) *Jun 2021 – Aug 2022*
+##### Vedantu – Executive Copywriter (EdTech) 
+###### *Jun 2021 – Aug 2022*
 
 - Wrote performance-driven content across channels (YouTube, email, campaigns), achieving 40% increase in CTR
 - Scripted educational video content contributing to 2x engagement in awareness campaigns
@@ -33,7 +35,8 @@ UX Writing Lead with 7+ years of experience delivering user-focused documentatio
 
 
 
-#### Parantapa Sciences – Senior Writer (NGO + Research) *Aug 2020 – Jun 2021*
+##### Parantapa Sciences – Senior Writer (NGO + Research) 
+###### *Aug 2020 – Jun 2021*
 
 - Conducted anthropological research to inform culturally sensitive storytelling
 - Created impact content that shaped donor strategy and community engagement
@@ -41,7 +44,8 @@ UX Writing Lead with 7+ years of experience delivering user-focused documentatio
 
 
 
-#### The Digital Street (now WiseApe) – Senior Copywriter *Jul 2019 – Aug 2020*
+##### The Digital Street – Senior Copywriter 
+###### *Jul 2019 – Aug 2020*
 
 - Developed campaign messaging and digital content for brands like Savlon, Dolby, ITC
 - Supervised a team of 10 creatives and contributed to 6+ pitch wins
@@ -49,7 +53,8 @@ UX Writing Lead with 7+ years of experience delivering user-focused documentatio
 
 
 
-#### Writopedia – Senior Writer *Nov 2017 – Jun 2019*
+##### Writopedia – Senior Writer 
+###### *Nov 2017 – Jun 2019*
 
 - Delivered over 600 content projects across SEO, Amazon listings, fintech, and travel
 - Managed content lifecycle from research to performance analytics
@@ -58,16 +63,18 @@ UX Writing Lead with 7+ years of experience delivering user-focused documentatio
 
 ### 📚 **Education & Certifications**
 
-- UX Content Collective – Fundamentals of UX Writing (2023)
-- MICA – Advanced Diploma in PR & Advertising (2022)
-- University of West Georgia – B.Sc. in Cultural Anthropology, Minor in Film Studies (2016)
+- **UX Content Collective** – Fundamentals of UX Writing (2023)
+- **MICA** – Advanced Diploma in PR & Advertising (2022)
+- **University of West Georgia** – B.Sc. in Cultural Anthropology, Minor in Film Studies (2016)
 
 
 
-### 🔧 **Skills & Tools**
+### 🔧 **Skills**
 
 **Writing & Content:** UX writing, microcopy, technical documentation, user guides, style guides, accessibility content 
+
 **Tools:** Markdown, Figma, JIRA, Confluence, Git, Photoshop 
+
 **Methods:** Docs-as-Code, Agile collaboration, ContentOps, Localization, WCAG 2.1 compliance
 
 
@@ -84,3 +91,4 @@ English, Hindi, Gujarati, Marwari, Spanish (learning)
 ### 📂 **References**
 
 Mr. Antonio Domingo, Ms. Sundhara Sugumaran – HSBC Content Design Leads (Available on request)
+
